@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "655095331031",
+    "project_id": "plugin-manager-1a8ec",
+    "storage_bucket": "plugin-manager-1a8ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655095331031:android:903bb0c01564de9fcb5892",
+        "android_client_info": {
+          "package_name": "com.kontick.pluginmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655095331031-65shg7d00iav8dve62ufro55kecnfunc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJFmOkWnaROyhn6DVI6UILzRS5Hw1Re9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "655095331031-65shg7d00iav8dve62ufro55kecnfunc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
